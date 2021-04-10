@@ -1,1 +1,3 @@
-humane.js
+# humane.js
+
+small update
