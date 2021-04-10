@@ -1,3 +1,3 @@
 # humane.js
 
-small update
+small update 2
